@@ -1,13 +1,17 @@
 
-baseURL = ""
+baseURL = "http://theplaybook.dev/"
 languageCode = "en-us"
-title = "The Art of TokenBending"
+title = "theplaybook"
 theme = "PaperMod"
 enableEmoji = true
 
 [params]
 author = "TokenBender"
 description = '''
+I love building stuff and most of my code, models and datasets are open source.
+I specialise in code generation models and character/roleplay/assistant bots.
+All my experiments and projects are planned and discussed on [e/xperiments server](https://discord.gg/kJFPWjzD).
+Feel free to reach out to me for consulting or collab on [Twitter](https://twitter.com/4evaBehindSOTA) or [LinkedIn](https://www.linkedin.com/in/abhishek-harshvardhan-mishra/).
 '''
 
 ShowReadingTime = true
@@ -20,18 +24,29 @@ suggested = ["List Item 1", "List Item 2"]
 theory_cel = ["List Item 1", "List Item 2"]
 
 [params.sponsor]
-image = "coffee.png"
+image = "computer.png"
 url = "https://www.buymeacoffee.com/tokenbender"
 text = "Would u like to sponsor these experiments?"
 
 [params.homeInfoParams]
-Title = "The Art of TokenBending"
+Title = "the dev playbook"
 Content = '''
-Welcome to the **Art of TokenBending** 🎉
+Welcome to the **dev playbook** 🎉
 
-- This is a space where I will mostly be sharing about my **experiments with LLMs/NLP** 🙂
-- All my experiments and projects are planned and discussed on [e/xperiments server](https://discord.gg/kJFPWjzD).
+- This is a space where I will mostly be sharing about Go & Kubernetes 🙂
 '''
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/dhij"
+
+[[params.socialIcons]]
+name = "Youtube"
+url = "https://www.youtube.com/@dhij"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "index.xml"
 
 [[params.socialIcons]]
 name = "Twitter"
