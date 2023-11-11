@@ -11,6 +11,6 @@ theme = 'PaperMod'
     url = "/"
 
   [[menu.main]]
-    identifier = "personal"
-    name = "Personal"
-    url = "/personal/"
+    identifier = "journal"
+    name = "journal"
+    url = "/journal/"
