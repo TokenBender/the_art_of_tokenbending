@@ -7,7 +7,7 @@ theme = 'PaperMod'
 
   [[menu.main]]
     identifier = "home"
-    name = "Home"
+    name = "home"
     url = "/"
 
   [[menu.main]]
