@@ -1,5 +1,5 @@
 +++
-title = 'Test'
+title = 'Hello 👋'
 date = 2023-09-18T13:13:34+05:30
 draft = false
 +++
@@ -7,7 +7,7 @@ draft = false
 # I am TokenBender
 
 I love building stuff and most of my code, models and datasets are open source.
-
+I am creator of CodeCherryPop LLM series - empathetic, smart, tool using small models.
 I specialise in code generation models and character/roleplay/assistant bots.
 
 All my experiments and projects are planned and discussed on [e/xperiments server](https://discord.gg/uVVEkaRxCp).
