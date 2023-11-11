@@ -2,3 +2,15 @@ baseURL = ''
 languageCode = 'en-us'
 title = 'The Art of TokenBending'
 theme = 'PaperMod'
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+
+  [[menu.main]]
+    identifier = "personal"
+    name = "Personal"
+    url = "/personal/"
