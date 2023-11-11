@@ -1,3 +1,9 @@
++++
+title = 'Just the beginnings'
+date = 2023-11-11
+draft = false
++++
+
 ## How does it look like from here on?
 
 So I have resigned and am free after a long time in my career.
