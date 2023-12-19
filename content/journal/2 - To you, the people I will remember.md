@@ -1,5 +1,5 @@
 +++
-title = 'To you, the people I will reemember'
+title = 'To you, the people I will rememmber'
 date = 2023-12-20
 draft = false
 +++
