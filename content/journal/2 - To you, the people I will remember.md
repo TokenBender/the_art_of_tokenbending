@@ -1,8 +1,10 @@
 +++
 title = 'To you, the people I will rememmber'
-date = 2023-12-20
+date = 2023-12-19
 draft = false
 +++
+
+### No specific title
 
 For the first few months, i just found myself trying things out and trying to connect to people on linkedin, i was not on twitter until then and i didn’t know anything about tpot or tech culture that was present here, i was mostly checking things here and there on 4chan, reddit, discords 90% of the time. But being on just linkedin was the worst for me.
 
